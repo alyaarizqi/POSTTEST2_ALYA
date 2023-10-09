@@ -2,7 +2,7 @@
 POST TEST 2 (PRAKTIKUM) ALYA RIZQI RAMADHANI 2309116008 SISTEM INFORMASI A 23
 
 Flowchart dari program: 
-
+![Flowchart posttest 2 drawio](https://github.com/alyaarizqi/POSTTEST2_ALYA/assets/144756486/fc109708-a94b-4632-959f-d49e83daec27)
 Screenshot output dari program :
 
 PENJELASAN LENGKAP OUTPUT :
