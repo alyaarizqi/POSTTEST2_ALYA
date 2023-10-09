@@ -3,10 +3,9 @@ POST TEST 2 (PRAKTIKUM) ALYA RIZQI RAMADHANI 2309116008 SISTEM INFORMASI A 23
 
 Flowchart dari program: 
 ![Flowchart posttest 2 drawio](https://github.com/alyaarizqi/POSTTEST2_ALYA/assets/144756486/fc109708-a94b-4632-959f-d49e83daec27)
-Screenshot output dari program :
 
 PENJELASAN LENGKAP OUTPUT :
-
+![WhatsApp Image 2023-10-10 at 04 38 02](https://github.com/alyaarizqi/POSTTEST2_ALYA/assets/144756486/435de746-082d-4772-a1c0-0c302c100e16)
 Ketika masuk user disuruh untuk memilih menjadi role apa pilihan 1 admin dan pilihan 2 pembeli dan pilihan 3 keluar
 
 2. Role admin
